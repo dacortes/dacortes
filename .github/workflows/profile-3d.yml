@@ -21,4 +21,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
+          git remote set-url origin git@github.com:dacortes/dacortes.git
           git push
