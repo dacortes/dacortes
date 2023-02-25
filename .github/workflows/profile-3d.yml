@@ -1,20 +1,24 @@
-# This is a basic workflow to help you get started with Actions
-name: Generate Profile 3D
+name: GitHub-Profile-3D-Contrib
+
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      - uses: chrisrzhou/github-profile-3d-contrib@master
-        with:
-          username: ${{ github.repository_owner }}
-      - name: Commit and push changes
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'github-actions@users.noreply.github.com'
-          git add README.md
-          git commit -m "Updated README with 3D contribution"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
           git push
