@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -11,16 +11,19 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Setup Node.js
+        uses: actions/setup-node@v2.4.4
+        with:
+          node-version: '14.x'
+      - run: npm install -g github-profile-3d-contrib
+      - name: Generate GitHub Profile 3D Contrib
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
         run: |
+          github-profile-3d-contrib --username $USERNAME
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
-          git remote set-url origin git@github.com:dacortes/dacortes.git
-          git push origin main
-
+          git push
