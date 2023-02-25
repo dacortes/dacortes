@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       - name: Setup Node.js
-        uses: actions/setup-node@v2.4.4
+        uses: actions/setup-node@v2.x
         with:
           node-version: '14.x'
       - run: npm install -g github-profile-3d-contrib
