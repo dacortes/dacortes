@@ -1,21 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Título de mi perfil de GitHub</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<style>
-		h1 {
-			text-align: center;
-			font-size: 36px;
-			margin-top: 20px;
-      font-weight: bold;
-		}
-	</style>
-</head>
-<body>
-	<h1>Hi,:vulcan_salute: i'm Dannyel</h1>
-
+<!---INIT--->
+<div align="center">
+<h1><b>Hi, :vulcan_salute: I'm Dannyel</b></h1>
+</div>
 <!---GIT_HUB_STATUS--->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dacortes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="chewytoast" style="width:320px">
