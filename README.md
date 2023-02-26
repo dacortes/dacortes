@@ -31,7 +31,19 @@
 <!---MUSIC--->
 <brt/>
 
-## Music
-</div>
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=312qg4h3fv6ynis374dlajv6rtg4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b61bb1&bar_color_cover=false" /></div>
-</br> 
+## Connect with me  
+<div align="left">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=312qg4h3fv6ynis374dlajv6rtg4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b61bb1&bar_color_cover=false" /></div>
+<a href="https://github.com/dacortes" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/dacortesr" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/dannyel_cortesr" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
