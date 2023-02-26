@@ -2,8 +2,13 @@
 <div align="center">
 <h1><b>Hi, :vulcan_salute: I'm Dannyel</b></h1>
 </div>
-<!---GIT_HUB_STATUS--->
-<br/>
+<div align="left">
+	<p>->:computer:I am passionate about technology and open source software.</p>
+	<p>->:school:Currently, I am studying at 
+		<a href="https://www.42barcelona.com/" target="_blank" <p>42 barcelona
+		</a>
+		to further develop my skills and knowledge in this field.</p>
+</div>
 
 ## Git status
 <div align="left">
