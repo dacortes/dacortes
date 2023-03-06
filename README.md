@@ -5,7 +5,7 @@
     <div style="flex:1;">
       <p>->:computer:I am passionate about technology and open source software.</p>
       <p>->:school:Currently, I am studying at 
-        <a href="https://www.42barcelona.com/" target="_blank">42 barcelona</a> to further develop my skills and knowledge in this field.</p>
+        <a href="https://www.42barcelona.com/" target="_blank">42 barcelona</a> to further develop my skills <br> and knowledge in this field.</p>
     </div>
     <div style="flex:1;text-align:center;">
       <img src="src/img/mad-typing.gif" alt="gato_picando_codigo" width="150" height="150">
