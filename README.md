@@ -1,5 +1,5 @@
 <!---INIT--->
-<div style="display: flex; align-items: center;>
+<div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h1>Hi, :vulcan_salute: I'm Dannyel</h1>
     <div align="right" style="text-align:center;">
