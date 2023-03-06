@@ -1,7 +1,7 @@
 | Status | Project |
 | ------ | ------------------------ | 
-|<img src="img/125.png" alt="125" width="125" height="50"> | libft |
-|<img src="img/100.png" alt="100" width="125" height="50"> | printf|
-|<img src="img/125.png" alt="125" width="125" height="50"> | get next line |
-|<img src="img/125.png" alt="125" width="125" height="50"> |fractol|
+|<img src="img/125.png" alt="125" width="125" height="50"> |<a href="https://github.com/dacortes/libft" target="_blank">libft</a>|
+|<img src="img/100.png" alt="100" width="125" height="50"> |<a href="https://github.com/dacortes/printf" target="_blank">printf</a>|
+|<img src="img/125.png" alt="125" width="125" height="50"> | <a href="https://github.com/dacortes/get_next_line" target="_blank">get next line</a>|
+|<img src="img/125.png" alt="125" width="125" height="50"> |<a href="https://github.com/dacortes/fractol" target="_blank">fractol</a>|
 |<img src="img/mad-typing.gif" alt="125" width="125" height="80"> |push swap|
