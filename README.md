@@ -1,5 +1,5 @@
 <!---INIT--->
-<div style="height: 200px;">
+<div style="height: 300px;">
   <h1>Hi, :vulcan_salute: I'm Dannyel</h1>
   <div style="display:flex;align-items:center;">
     <div style="flex:1;">
