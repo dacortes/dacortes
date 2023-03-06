@@ -7,7 +7,7 @@
 	<p>->:school:Currently, I am studying at 
 		<a href="https://www.42barcelona.com/" target="_blank" <p>42 barcelona
 		</a>
-		to further develop my skills and knowledge in this field.</p>
+		to further develop my </p>skills and knowledge in this field.</p>
 </div>
 
 <!---gifs cat--->
