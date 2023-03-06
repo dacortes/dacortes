@@ -8,11 +8,11 @@
 		<a href="https://www.42barcelona.com/" target="_blank" <p>42 barcelona
 		</a>
 		to further develop my skills and knowledge in this field.</p>
+		<img src="src/img/mad-typing.gif" alt="gato_picando_codigo" width="150" height="150" style="float:right;">
 </div>
 
 <!---gifs cat--->
-<div align="rigth">
-	<img src="https://tenor.com/es/view/cat-type-fast-busy-kitten-gif-16655467">
+<div align="right">
 </div>
 
 ## Git status
