@@ -7,6 +7,7 @@
     <p>->:computer:I am passionate about technology and open source software.</p>
     <p>->:school:Currently, I am studying at 
       <a href="https://www.42barcelona.com/" target="_blank">42 barcelona</a> to further develop my skills and knowledge in this field.</p>
+    <p>->:books: status of <a href="https://github.com/dacortes/dacortes/blob/main/src/README.md" target="_blank">projects 42</a>.
   </div>
 </div>
 
