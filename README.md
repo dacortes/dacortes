@@ -1,15 +1,18 @@
 <!---INIT--->
-<div align="center">
-<h1><b>Hi, :vulcan_salute: I'm Dannyel</b></h1>
+<div>
+  <h1>Hi, :vulcan_salute: I'm Dannyel</h1>
+  <div style="display:flex;align-items:center;">
+    <div style="flex:1;">
+      <p>->:computer:I am passionate about technology and open source software.</p>
+      <p>->:school:Currently, I am studying at 
+        <a href="https://www.42barcelona.com/" target="_blank">42 barcelona</a> to further develop my skills and knowledge in this field.</p>
+    </div>
+    <div style="flex:1;text-align:center;">
+      <img src="src/img/mad-typing.gif" alt="gato_picando_codigo" width="150" height="150">
+    </div>
+  </div>
 </div>
-<div align="left">
-	<p>->:computer:I am passionate about technology and open source software.</p>
-	<p>->:school:Currently, I am studying at 
-		<a href="https://www.42barcelona.com/" target="_blank" <p>42 barcelona
-		</a>
-		to further develop my </p>skills and knowledge in this field.</p>
-	<img src="src/img/mad-typing.gif" alt="gato_picando_codigo" width="150" height="150" style="float:right;margin-right:1500px;">
-</div>
+
 
 <!---gifs cat--->
 <div align="right">
