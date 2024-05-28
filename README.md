@@ -4,10 +4,10 @@
     <h1>Hi, :vulcan_salute: I'm Dannyel</h1>
     <img src="src/img/mad-typing.gif" alt="gato_picando_codigo" width="110" height="110" align="right" tyle="text-align:center; margin-right: 30px;">
     <div align="left" style="text-align:center;">
-    <p>->:computer:I'm passionate about technology and open source software.</p>
-    <p>->:school:Currently, I am studying at 
+    <p>-> I'm passionate about technology and open source software.</p>
+    <p>-> Currently, I am studying at 
       <a href="https://www.42barcelona.com/" target="_blank">42 barcelona</a> to further develop my skills and knowledge in this field.</p>
-    <p>->:books:Status of <a href="https://github.com/dacortes/dacortes/blob/main/src/README.md" target="_blank">projects 42</a>.
+    <p>-> Status of <a href="https://github.com/dacortes/dacortes/blob/main/src/README.md" target="_blank">projects 42</a>.
   </div>
 </div>
 
