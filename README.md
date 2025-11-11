@@ -61,7 +61,7 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,postgresql,nginx,redis" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,postgresql,nginx" />
 </p>
 
 ### 🔌 Embedded & IoT
